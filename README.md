@@ -1,5 +1,51 @@
-# Vue 3 + Vite
+# 🚀 Vue를 배우며 IntelliJ도 익혀요
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+낯선 Vue와 IntelliJ속에서 살아남기
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🛠️ 기술 스택 및 학습 목표
+
+| 구분            | 내용                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| 🎨 프레임워크    | **Vue.js 3** (Composition API, Vite 기반)                            |
+| 🧰 개발 도구     | **IntelliJ IDEA** (JetBrains 제품, 플러그인 및 단축키 적극 활용 예정) |
+| 🗂️ 스타일링      | 기본 CSS (향후 tailwind 혹은 emotion고려 중)                            |
+| 🔧 기타 도구     | Vue Router, Pinia, TypeScript 등                                      |
+
+---
+
+## 🎯 목표
+
+- ✅ **Vue.js 핵심 개념 습득**  
+  → 컴포지션 API, 라이프사이클, 컴포넌트 구조 이해 및 활용  
+- ✅ **컴포넌트 기반 UI 설계 능력 향상**
+- ✅ **IntelliJ를 통한 생산적인 개발 습관 형성**
+- ✅ 매일(최대한) 꾸준히 학습하고 실습하며, 작은 프로젝트로 역량 강화
+- ✅ GitHub 커밋으로 학습 기록 남기기
+
+---
+
+## 📅 업로드 및 커밋 주기
+
+- ⏰ **최소 주 2회 커밋 목표**
+- 🧾 **기록 내용**: 코드, 마크다운 정리, 회고 포함
+
+---
+
+## 💡 Vscode냅두고 IntelliJ를 사용하는 이유
+
+- 🧠 **VS Code와 다른 개발 경험 탐색**
+- ⚡ **JetBrains의 자동완성, 코드 네비게이션, 리팩토링 기능 활용**
+- 🧘‍♂️ 초기에는 익숙하지 않지만, 장기적으로 빠른 생산성과 정교한 개발 흐름을 기대중
+
+---
+
+## 🐾 앞으로의 방향
+
+> **"단순히 만드는 것에 그치지 않고, 구조화된 사고로 설계하며 성장하기."**
+
+Vue와 IntelliJ에 익숙해지면서 점차 **실무에 가까운 개발 스타일**을 익히는 것이 목표
+꾸준히 조금씩 Vue애 대한 숙련도를 향상시켜 전문성을 갖는 것이 두 번째 목표
+
+---
