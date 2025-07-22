@@ -24,7 +24,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref, onBeforeMount, onMounted } from "vue";
 import ActivatedComponent from "@/components/lifecycle/ActivatedComponent.vue";
 
