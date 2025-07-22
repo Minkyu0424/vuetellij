@@ -10,7 +10,7 @@
 |-----------------|----------------------------------------------------------------------|
 | 🎨 프레임워크    | **Vue.js 3** (Composition API, Vite 기반)                            |
 | 🧰 개발 도구     | **IntelliJ IDEA** (JetBrains 제품, 플러그인 및 단축키 적극 활용 예정) |
-| 🗂️ 스타일링      | 기본 CSSS (향후 tailwind 혹은 emotion고려 중)                            |
+| 🗂️ 스타일링      | 기본 CSS (향후 tailwind 혹은 emotion고려 중)                            |
 | 🔧 기타 도구     | Vue Router, Pinia, TypeScript 등                                      |
 
 ---
